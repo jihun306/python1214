@@ -1,5 +1,5 @@
 # DemoForm.py
-# DemoForm.py(로직을 구현) + DemoForm.yi(화면을 디자인)
+# DemoForm.py(로직을 구현) + DemoForm.ui(화면을 디자인)
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
